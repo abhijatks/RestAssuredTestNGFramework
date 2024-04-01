@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-03-07T14:17:15 IST" name="Default suite" finished-at="2024-03-07T14:17:18 IST" duration-ms="2285">
+  <suite started-at="2024-04-01T17:49:03 IST" name="Default suite" finished-at="2024-04-01T17:49:05 IST" duration-ms="1862">
     <groups>
     </groups>
-    <test started-at="2024-03-07T14:17:15 IST" name="Default test" finished-at="2024-03-07T14:17:18 IST" duration-ms="2285">
-      <class name="GetAPIRequest.Tests_Get">
-        <test-method signature="getEmail()[pri:0, instance:GetAPIRequest.Tests_Get@51f116b8]" started-at="2024-03-07T14:17:15 IST" name="getEmail" finished-at="2024-03-07T14:17:18 IST" duration-ms="2251" status="PASS">
+    <test started-at="2024-04-01T17:49:03 IST" name="Default test" finished-at="2024-04-01T17:49:05 IST" duration-ms="1862">
+      <class name="GetAPIRequest.Tests_Get_SingleUSer">
+        <test-method signature="getSingleEmail()[pri:0, instance:GetAPIRequest.Tests_Get_SingleUSer@1f97cf0d]" started-at="2024-04-01T17:49:03 IST" name="getSingleEmail" finished-at="2024-04-01T17:49:05 IST" duration-ms="1828" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getEmail -->
-      </class> <!-- GetAPIRequest.Tests_Get -->
+        </test-method> <!-- getSingleEmail -->
+      </class> <!-- GetAPIRequest.Tests_Get_SingleUSer -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

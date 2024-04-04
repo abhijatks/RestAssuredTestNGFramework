@@ -31,6 +31,7 @@ class Tests_Get_SingleUSer
     
     
     public void dummy() {
+    System.out.println("Hello");
     }
     
 }

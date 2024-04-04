@@ -28,5 +28,10 @@ class Tests_Get_SingleUSer
 		
 
 	}
+    
+    
+    public void dummy() {
+    }
+    
 }
 
